@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @omaha1018
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m   @omaha1018
+- 👀 I’m interested in building  innovations Driven projects
+- 🌱 I’m currently learning JavaScript web Application
+- 💞️ I’m looking to collaborate on diifrent projects 
 - 📫   omaha1018@gmail.com
 
 <!---
